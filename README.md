@@ -15,7 +15,7 @@ YYYY/
 ```
 
 ## Progress
-- **2024**: 🚀 Completing (not competitively)
+- **2024**: 🚀 Completing casually in 2025
 
 ---
 *"There are only two hard things in Computer Science: cache invalidation and off-by-one errors."*
